@@ -1,3 +1,5 @@
+//Question 2 - Finding mean , median and mode
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -12,7 +14,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.TreeSet;
 
-//file contains numbers using seperator comma " "
+//file contains numbers using seperator  " "
 public class Statistician {
 	public static void main(String args[]) {
 		
